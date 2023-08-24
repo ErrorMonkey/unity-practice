@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{1C768191-F9AE-5C3A-48F1-3DBC7C04034E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b68cd341-4683-42b5-9b24-9829f184175a" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Item/Item.cs" />
+      <File FileName="Assets/Scripts/Item/SpeedUp.cs" />
+      <File FileName="Assets/Scripts/Managers/SpawnManager.cs" />
+      <File FileName="Assets/Scripts/Managers/ItemManager.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerController.cs" Line="24" Column="10" />
+      <File FileName="Assets/Scripts/Enemy/Enemy.cs" Line="55" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="unity_test_project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Adaptive Performance" expanded="True">
+                <Node name="Settings" expanded="True" />
+              </Node>
+              <Node name="Editor" expanded="True" />
+              <Node name="Prefabs" expanded="True" />
+              <Node name="Scenes" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="Enemy" expanded="True">
+                  <Node name="Enemy.cs" selected="True" />
+                </Node>
+                <Node name="Example" expanded="True">
+                  <Node name="Chapter5" expanded="True" />
+                </Node>
+                <Node name="Item" expanded="True" />
+                <Node name="Managers" expanded="True" />
+                <Node name="Player" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
